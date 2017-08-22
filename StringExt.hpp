@@ -5,4 +5,4 @@
 
 std::string ToUpperStr(const std::string str );
 
-#endif _STRINGEXT_HPP
+#endif
